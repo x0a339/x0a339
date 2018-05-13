@@ -1,0 +1,46 @@
+#EXTM3U tvg-shift=+1
+
+#EXTINF:-1, tvg-id="CTVMONTREALHD" tvg-logo="CTVHD.png" group-title="Canadian", CTV - Montreal HD
+http://209.182.228.21:8000/udp/230.50.0.5:8208
+
+#EXTINF:-1, tvg-name="CTV2BARRIEHD" tvg-logo="CTV2HD.png" group-title="Canadian", CTV Two - Barrie HD
+http://209.182.228.21:8000/udp/230.50.0.68:8208
+
+#EXTINF:-1, tvg-name="CTVNEWSNETWORKHD" tvg-logo="CTVNCHD.png" group-title="Canadian", CTV News Network HD
+http://209.182.228.21:8000/udp/230.50.0.84:8208
+
+#EXTINF:-1, tvg-name="GLOBALTORONTOHD" tvg-logo="GlobalTorontoHD.png" group-title="Canadian", Global - Toronto HD
+http://209.182.228.21:8000/udp/230.50.0.48:8208
+
+#EXTINF:-1, tvg-name="CITYTORONTOHD" tvg-logo="CityHD.png" group-title="Canadian", City - Toronto HD
+http://209.182.228.21:8000/udp/230.50.0.32:8208
+
+#EXTINF:-1, tvg-name="CBCTORONTOHD" tvg-logo="CBCTorontoHD.png" group-title="Canadian", CBC - Toronto HD
+http://209.182.228.21:8000/udp/230.50.0.52:8208
+
+#EXTINF:-1, tvg-name="CBCNEWSNETWORKHD" tvg-logo="CBCNewsNetworkHD.png" group-title="Canadian", CBC News Network HD
+http://209.182.228.22:8000/udp/230.50.0.55:8208
+
+#EXTINF:-1, tvg-name="OMNIHD" tvg-logo="OMNIHD.png" group-title="Canadian", OMNI HD
+http://209.182.228.21:8000/udp/230.50.0.223:8208
+
+#EXTINF:-1, tvg-name="CHCHHD" tvg-logo="CHCHHD.png" group-title="Canadian", CHCH HD
+http://209.182.228.21:8000/udp/230.50.0.192:8208
+
+#EXTINF:-1, tvg-name="CP24HD" tvg-logo="CP24HD.png" group-title="Canadian", CP24 HD
+http://209.182.228.22:8000/udp/230.50.0.12:8208
+
+#EXTINF:-1, tvg-name="TSN1HD" tvg-logo="TSN1HD.png" group-title="Canadian", TSN1 HD
+http://209.182.228.22:8000/udp/230.50.0.13:8208
+
+#EXTINF:-1, tvg-name="TSN2HD" tvg-logo="TSN2HD.png" group-title="Canadian", TSN2 HD
+http://209.182.228.22:8000/udp/230.50.0.14:8208
+
+#EXTINF:-1, tvg-name="TSN3HD" tvg-logo="TSN3HD.png" group-title="Canadian", TSN3 HD
+http://209.182.228.22:8000/udp/230.50.0.15:8208
+
+#EXTINF:-1, tvg-name="TSN4HD" tvg-logo="TSN4HD.png" group-title="Canadian", TSN4 HD
+http://209.182.228.22:8000/udp/230.50.0.16:8208
+
+#EXTINF:-1, tvg-name="YesTVHD" tvg-logo="YesTVHD.png" group-title="Canadian", YesTV HD
+http://stream-live-edge-a03.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/yestv-ont/yestv-ont_540p/chunks.m3u8
