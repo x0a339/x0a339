@@ -1,3 +1,0 @@
-http://p3x.eu:8080/get.php?username=ahmet70&password=70ahmet&type=m3u
-http://mriptv.in:8080/get.php?username=schorsch&password=schorsch&type=m3u
-http://linux-app.tv:8080/get.php?username=ali01&password=ali01&type=m3u
